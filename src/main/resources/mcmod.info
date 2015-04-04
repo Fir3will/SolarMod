@@ -1,0 +1,15 @@
+[
+{
+"modid": "SolarMod",
+"name": "Solar Mod",
+"description": "Solar panels that can create a different amount of RF.",
+"version": "1.0",
+"mcversion": "1.7.10",
+"url": "",
+"updateUrl": "",
+"authorList": ["P3RRYBMW"],
+"logoFile": "",
+"screenshots": [],
+"dependencies": []
+}
+]
